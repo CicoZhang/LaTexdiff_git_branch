@@ -1,4 +1,4 @@
-**Git LaTeXDiff Branch** is a shell script that enables the comparison of two LaTeX documents in two git branches in one go. This tool is created to meet my own need during my research and it could be helpful to you if you have a similar user case.
+**Git LaTeXDiff Branch** is a shell script that enables the comparison of two LaTeX documents in two git branches in one go. This tool is created to meet my own need during my research and it could be helpful to you if you have a similar use case.
 
 ## Instruction to use ##
 1. The operation should be under the root directory of git.
