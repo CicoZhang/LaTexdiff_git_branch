@@ -11,4 +11,4 @@ NB: this command is not limited to branch, it is also applicable to a specific c
 > `bash ~/Documents/code/LaTexdiff_git_branch/git_latexdiff_branch.sh d7f644c:final/main.tex 60e32da:final/main.tex 60e32da:final`
 4. You will get two output files: one is `diff_main.tex`, the other is `diff_main.pdf` in the folder of `git_latexdiff_temp`.
 
-
+NB: When running this tool, you might need to press the enter key a few times to give a go-ahead.
